@@ -14,7 +14,11 @@ var x=document.getElementById("mypsw").value;
 document.getElementById("demo").innerHTML=x;
 }
 <h1>The button element</h1>
+<<<<<<< HEAD
+<button type="button" onclick="alert('Hello World!')"> Click me! </button>
+=======
 <button type="button" onclick="alert('Hello World!')"> Hi! </button>
+>>>>>>> test1
 </sript>
 </body>
 </html>
